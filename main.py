@@ -2,7 +2,6 @@ import telebot
 from telebot import types
 import random
 
-TOKEN = '7736017272:AAG5nEOE7_NLGQTRsgNOvOgu-HFqos-Zru8'
 bot = telebot.TeleBot(TOKEN)
 
 quotes = []
